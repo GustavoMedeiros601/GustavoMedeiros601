@@ -49,6 +49,9 @@ Currently building projects involving data analysis, backend architectures and i
 
 ## Featured Projects
 
+### Brazil GHG Emissions Analysis
+End-to-end data analytics project using Python, Pandas and public SEEG/IBGE datasets to analyze greenhouse gas emissions across Brazilian states, economic sectors and historical trends.
+
 ### Real Estate Data Analysis
 Data analysis project using Python and Pandas to explore real estate pricing patterns, data cleaning techniques and exploratory analysis.
 
